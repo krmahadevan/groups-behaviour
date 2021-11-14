@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="groups_behaviour_suite" verbose="2">
+  <test name="groups_behaviour_test">
+    <classes>
+      <class name="com.rationaleemotions.issue2664.Issue2664Test"/>
+    </classes>
+  </test>
+</suite>
